@@ -2,9 +2,7 @@
 
 A Flutter application that demonstrates how to build a robust, real-time network connectivity monitoring service. The app displays the current network status and provides instant feedback via snack bars when the connection state changes.
 
-![connected.jpg](docs/connected.jpg)
-![no_service.jpg](docs/no_service.jpg)
-![disconnected.jpg](docs/disconnected.jpg)
+![network_status_service.bmp](docs/network_status_service.bmp)
 
 ---
 
